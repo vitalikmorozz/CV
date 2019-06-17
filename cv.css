@@ -76,9 +76,9 @@ body {
 
 .right__item h3::after {
     content: '';
-    transform: translateX(33%);
     padding-bottom: 5px;
     display: block;
+    margin: 0 auto;
     width: 60%;
     height: 100%;
     border-bottom: 1px solid #f5f6fa;
@@ -99,7 +99,7 @@ body {
 
     .left__item h3::after {
         content: '';
-        transform: translateX(33%);
+        margin: 0 auto;
         padding-bottom: 5px;
         display: block;
         width: 60%;
