@@ -94,3 +94,9 @@ a:hover {
         flex-direction: column;
     }
 }
+
+@media (max-width: 550px) {
+    .container {
+        margin-top: 0px;
+    }
+}
